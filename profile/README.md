@@ -8,10 +8,10 @@ The main goal of the team is to support each other in order to continue learning
 - ✏️ [Regressions](https://github.com/Data-Science-Project-R-Python/Regresiones)
 - 📌 [Mapas](https://github.com/Data-Science-Project-R-Python/Mapas)
 - 🔑 [Web Scraping](https://github.com/Data-Science-Project-R-Python/Web_Scraping)
----
+
 📋 Knowledge:
 - 🌱 I’m currently learning **Python and R**
----
+  
 📫 Members:
 - DANI [GitHub](https://github.com/dcalenzani) | (**dcalenzani95@gmail.com**) 
 - NIKOL MAYO [GitHub](https://github.com/Mayo1321) | (**nikolmayop@gmail.com**)  
