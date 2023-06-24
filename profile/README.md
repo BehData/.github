@@ -5,17 +5,15 @@ This group is made up of professionals specialised in different areas, such as c
 The main goal of the team is to support each other in order to continue learning and growing professionally through collaboration on joint projects. 
 
 ***
-
 💼 Projects:
 - ✏️ [Regressions](https://github.com/Data-Science-Project-R-Python/Regresiones)
 - 📌 [Mapas](https://github.com/Data-Science-Project-R-Python/Mapas)
 - 🔑 [Web Scraping](https://github.com/Data-Science-Project-R-Python/Web_Scraping)
-
+---
 📋 Knowledge:
-
 - 🌱 I’m currently learning **Python and R**
 - 👨‍💻 All of my projects are available at [https://github.com/orgs/Data-Science-Project-R-Python/repositories](https://github.com/orgs/Data-Science-Project-R-Python/repositories)
-
+___
 - 📫 Members:
 - DANI [GitHub](https://github.com/dcalenzani) | (**dcalenzani95@gmail.com**) 
 - NIKOL MAYO [GitHub](https://github.com/Mayo1321) | (**nikolmayop@gmail.com**)  
