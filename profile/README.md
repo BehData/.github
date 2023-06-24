@@ -15,10 +15,16 @@ The main goal of the team is to support each other in order to continue learning
 - 🌱 We are currently learning **Python and R**
   
 📫 Members:
-- DANI [GitHub](https://github.com/dcalenzani) | (**dcalenzani95@gmail.com**) 
+
+|            |          Description          |             Correo          |
+|------------|-------------------------------|-----------------------------|
+|    DANI    |Psychology - Organisational    |(**dcalenzani95@gmail.com**) |
+              and Consumer Behaviour             
+|            | 
+- DANI [GitHub](https://github.com/dcalenzani) |  
 - NIKOL MAYO [GitHub](https://github.com/Mayo1321) | (**nikolmayop@gmail.com**)  
 - JORGE HUANCA [GitHub](https://github.com/jorgehmartinez) | (**jorgeahm98@gmail.com**) 
-- ELIAS ABURTO [GitHub](https://github.com/EliasAburtoC) | (**elias.aburto@unmsm.edu.pe**)  
+- Elías Aburto Camacllanqui [GitHub](https://github.com/EliasAburtoC) | (**elias.aburto@unmsm.edu.pe**)  
 - OSCAR MEZA [GitHub](https://github.com/OscarEst1) | (**mc.oscar24719@gmail.com**)
 - JACKELINE GARCÍA [GitHub](https://github.com/JackelineGS) | (**jackeline.garcia.serna@gmail.com**) 
   
