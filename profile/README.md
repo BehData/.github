@@ -4,6 +4,8 @@
 This group is made up of professionals specialised in different areas, such as clinical psychology, organisational psychology and educational psychology. However, despite their different fields of expertise, they share a common interest in data science and web development.
 The main goal of the team is to support each other in order to continue learning and growing professionally through collaboration on joint projects. 
 
+***
+
 💼 Projects:
 - ✏️ [Regressions](https://github.com/Data-Science-Project-R-Python/Regresiones)
 - 📌 [Mapas](https://github.com/Data-Science-Project-R-Python/Mapas)
