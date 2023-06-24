@@ -8,7 +8,7 @@ The main goal of the team is to support each other in order to continue learning
 
 💼 Projects:
 - ✏️ [Regressions](https://github.com/Data-Science-Project-R-Python/Regresiones)
-- 📌 [Mapas](https://github.com/Data-Science-Project-R-Python/Mapas)
+- 📌 [Maps](https://github.com/Data-Science-Project-R-Python/Mapas)
 - 🔑 [Web Scraping](https://github.com/Data-Science-Project-R-Python/Web_Scraping)
 
 📋 Knowledge:
@@ -16,7 +16,7 @@ The main goal of the team is to support each other in order to continue learning
   
 📫 Members:
 
-|                  |                       Description                  |               Correo                 |
+|                  |                       Description                  |               E-mail                 |
 |------------------|----------------------------------------------------|--------------------------------------|
 |      Dani        | Psychology - Organisational and Consumer Behaviour |       **dcalenzani95@gmail.com**     |                     
 |   Nikol Mayo     |     Psychology - Research in Public Health         |       **nikolmayop@gmail.com**       |
