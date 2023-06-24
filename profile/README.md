@@ -16,14 +16,14 @@ The main goal of the team is to support each other in order to continue learning
   
 📫 Members:
 
-|                  |                      Description                  |               Correo                 |
-|------------------|---------------------------------------------------|--------------------------------------|
-|      Dani        |Psychology - Organisational and Consumer Behaviour |       **dcalenzani95@gmail.com**     |                     
-|   Nikol Mayo     |                                                   |       **nikolmayop@gmail.com**       |
-|  Jorge Huanca    |                                                   |       **jorgeahm98@gmail.com**       |
-|  Elías Aburto    |                                                   |       **elias.aburto@unmsm.edu.pe**  |
-|   Oscar Meza     |                                                   |       **mc.oscar24719@gmail.com**    |
-| Jackeline García |                                                   | **jackeline.garcia.serna@gmail.com** | 
+|                  |                       Description                  |               Correo                 |
+|------------------|----------------------------------------------------|--------------------------------------|
+|      Dani        | Psychology - Organisational and Consumer Behaviour |       **dcalenzani95@gmail.com**     |                     
+|   Nikol Mayo     |     Psychology - Research in Public Health         |       **nikolmayop@gmail.com**       |
+|  Jorge Huanca    |                                                    |       **jorgeahm98@gmail.com**       |
+|  Elías Aburto    |                                                    |       **elias.aburto@unmsm.edu.pe**  |
+|   Oscar Meza     |                                                    |       **mc.oscar24719@gmail.com**    |
+| Jackeline García | Psychology and Web Developer - Frontend Developer  | **jackeline.garcia.serna@gmail.com** | 
   
 <p align="left">
 </p>
