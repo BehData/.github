@@ -16,17 +16,14 @@ The main goal of the team is to support each other in order to continue learning
   
 📫 Members:
 
-|            |          Description          |             Correo          |
-|------------|-------------------------------|-----------------------------|
-|    DANI    |Psychology - Organisational    |(**dcalenzani95@gmail.com**) |
-              and Consumer Behaviour             
-|            | 
-- DANI [GitHub](https://github.com/dcalenzani) |  
-- NIKOL MAYO [GitHub](https://github.com/Mayo1321) | (**nikolmayop@gmail.com**)  
-- JORGE HUANCA [GitHub](https://github.com/jorgehmartinez) | (**jorgeahm98@gmail.com**) 
-- Elías Aburto Camacllanqui [GitHub](https://github.com/EliasAburtoC) | (**elias.aburto@unmsm.edu.pe**)  
-- OSCAR MEZA [GitHub](https://github.com/OscarEst1) | (**mc.oscar24719@gmail.com**)
-- JACKELINE GARCÍA [GitHub](https://github.com/JackelineGS) | (**jackeline.garcia.serna@gmail.com**) 
+|                  |                      Description                  |               Correo                 |
+|------------------|---------------------------------------------------|--------------------------------------|
+|      Dani        |Psychology - Organisational and Consumer Behaviour |       **dcalenzani95@gmail.com**     |                     
+|   Nikol Mayo     |                                                   |       **nikolmayop@gmail.com**       |
+|  Jorge Huanca    |                                                   |       **jorgeahm98@gmail.com**       |
+|  Elías Aburto    |                                                   |       **elias.aburto@unmsm.edu.pe**  |
+|   Oscar Meza     |                                                   |       **mc.oscar24719@gmail.com**    |
+| Jackeline García |                                                   | **jackeline.garcia.serna@gmail.com** | 
   
 <p align="left">
 </p>
