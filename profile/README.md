@@ -21,8 +21,8 @@ The main goal of the team is to support each other in order to continue learning
 | Daniel Calenzani | Anthropology - Social Sciences - User Experience                            |       **dcalenzani95@gmail.com**     |                     
 |   Nikol Mayo     | Psychology - Research in Public Health                                      |       **nikolmayop@gmail.com**       |
 |  Jorge Huanca    | Psychology - Monitoring and Evaluation - Social and Educational Innovation  |       **jorgeahm98@gmail.com**       |
-|  Elías Aburto    | Psychology - Organisational and Consumer Behaviour                          |       **elias.aburto@unmsm.edu.pe**  |
-|   Oscar Meza     | Psychology - Occupational Health - Organisational Behaviour                 |       **mc.oscar24719@gmail.com**    |
+|  Elías Aburto    | Psychology - Organizational and Consumer Behaviour                          |       **elias.aburto@unmsm.edu.pe**  |
+|   Oscar Meza     | Psychology - Occupational Health - Organizational Behaviour                 |       **mc.oscar.est@gmail.com**    |
 | Jackeline García | Psychology and Web Developer - Frontend Developer                           | **jackeline.garcia.serna@gmail.com** | 
   
 <p align="left">
