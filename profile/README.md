@@ -10,6 +10,7 @@ The main goal of the team is to support each other in order to continue learning
 - ✏️ [Regressions](https://github.com/Data-Science-Project-R-Python/Regresiones)
 - 📌 [Maps](https://github.com/Data-Science-Project-R-Python/Mapas)
 - 🔑 [Web Scraping](https://github.com/Data-Science-Project-R-Python/Web_Scraping)
+- 💻 [Professional Profile](https://github.com/BehData/Professional-Profile)
 
 📋 Knowledge:
 - 🌱 We are currently learning **Python and R**
