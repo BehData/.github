@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BehData</h1>
+<h1 align="center">Hi 👋, We are BehData</h1>
 <h2 align="center">Behavioral professionals involved in data science</h2>
 <h3 align="left"> ✨ About us:</h3>
 This group is made up of professionals specialized in different areas, such as clinical psychology, organizational psychology, and educational psychology. However, despite their different fields of expertise, they share a common interest in data science and web development.
