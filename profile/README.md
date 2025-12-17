@@ -23,8 +23,8 @@ The main goal of the team is to support each other in order to continue learning
 |   Nikol Mayo     | Psychology - Research in Public Health                                      |       **nikolmayop@gmail.com**       |
 |  Jorge Huanca    | Psychology - Monitoring and Evaluation - Social and Educational Innovation  |       **jorgeahm98@gmail.com**       |
 |  Elías Aburto    | Psychology - Organizational and Consumer Behavior                           |       **elias.aburto@unmsm.edu.pe**  |
-|   Oscar Meza     | Psychology - Occupational Health - Organizational Behavior                  |       **mc.oscar.est@gmail.com**    |
-| Jackeline García | Psychology and Web Developer - Frontend Developer                           | **jackeline.garcia.serna@gmail.com** | 
+|   Oscar Meza     | Psychology - Occupational Health - Organizational Behavior                  |       **mc.oscar.est@gmail.com**     |
+| Jackeline García | Psychology and Software - Software engineer                                 | **jackeline.garcia.serna@gmail.com** | 
   
 <p align="left">
 </p>
